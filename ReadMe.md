@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Emirtuğ Kacar.<br>📍 I'm an Electrical and Electronics Engineering student with a focus on control systems, automation, embedded systems, and the intersection of robotics and AI.<br>💡 I mostly work with STM32, Arduino, ROS, Python, C++, PLCs (TIA Portal, Factory I/O), and 3D scanning/robotic applications.<br>🔧 I approach problems with an engineering mindset and see code as both a tool and a creative medium. GitHub is where I experiment, build, and share.
+# About Me:
+Hi, I'm Emirtuğ Kacar.<br>📍 I'm an Electrical and Electronics Engineering student with a focus on control systems, automation, embedded systems, and the intersection of robotics and AI.<br>💡 I mostly work with STM32, Arduino, ROS, Python, C++, PLCs (TIA Portal, Factory I/O), and 3D scanning/robotic applications.<br>🔧 I approach problems with an engineering mindset and see code as both a tool and a creative medium. GitHub is where I experiment, build, and share.
 
 
 ## 🌐 Socials:
